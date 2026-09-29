@@ -1,0 +1,34 @@
+# Salvador Dalí. Warm lampblack, melting-clock gold, a cold sky complement.
+# Wallpaper bars are pure black so each picture sits centered and uncropped.
+mode = "dark"
+
+accent = "#e0a84a"
+selection = "#2e261c"
+selection_foreground = "#f3ead8"
+muted = "#a89884"
+
+background = "#14110e"
+dark_background = "#0e0c0a"
+darker_background = "#090807"
+lighter_background = "#241f1a"
+
+foreground = "#f3ead8"
+dark_foreground = "#b3a38e"
+light_foreground = "#e6d9c4"
+bright_foreground = "#faf6ee"
+
+red = "#d48478"
+yellow = "#e0a84a"
+orange = "#d4843a"
+green = "#8a9a62"
+cyan = "#6eb0d4"
+blue = "#6a8ec4"
+magenta = "#c47a98"
+brown = "#8a6848"
+
+bright_red = "#e8a8a0"
+bright_yellow = "#f0c06a"
+bright_green = "#a8b87e"
+bright_cyan = "#8ec8e4"
+bright_blue = "#8aace0"
+bright_magenta = "#d9a0b4"
